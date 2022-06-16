@@ -4,7 +4,7 @@
 
 ## Public Profile
 
-[My Google Cloud Skill Boost Public Profile](https://www.cloudskillsboost.google/public_profiles/61ebfdb2-8830-4d60-b746-51c16650c40b).
+[My Google Cloud Skill Boost Public Profile](https://www.cloudskillsboost.google/public_profiles/61ebfdb2-8830-4d60-b746-51c16650c40b)
 
 ## Challenge Labs
 
