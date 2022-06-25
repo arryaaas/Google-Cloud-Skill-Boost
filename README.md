@@ -15,7 +15,7 @@
 - [GSP305](/challenge-labs/GSP305.md) Scale Out and Update a Containerized Application on a Kubernetes Cluster
 - [GSP306](/challenge-labs/GSP306.md) Migrate a MySQL Database to Google Cloud SQL
 - [GSP313](/challenge-labs/GSP313.md) Create and Manage Cloud Resources
-- [GSP314](/challenge-labs/GSP314.md) Deploy and Manage Cloud Environments with Google Cloud
+- [GSP314](/challenge-labs/GSP314.md) Deploy and Manage Cloud Environments with Google Cloud (**deprecated**)
 - [GSP315](/challenge-labs/GSP315.md) Perform Foundational Infrastructure Tasks in Google Cloud
 - [GSP318](/challenge-labs/GSP318.md) Deploy to Kubernetes in Google Cloud
 - [GSP319](/challenge-labs/GSP319.md) Build a Website on Google Cloud
@@ -29,3 +29,6 @@
 - [GSP344](/challenge-labs/GSP344.md) Serverless Firebase Development
 - [GSP345](/challenge-labs/GSP345.md) Automating Infrastructure on Google Cloud with Terraform
 - [GSP787](/challenge-labs/GSP787.md) Insights from Data with BigQuery (soon...)
+
+Notes: <br>
+If the lab is labeled **deprecated**, it means the lab has been updated and this solution will not work, but you can still use it to study.
