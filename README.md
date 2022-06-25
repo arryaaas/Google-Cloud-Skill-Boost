@@ -28,7 +28,7 @@
 - [GSP342](/challenge-labs/GSP342.md) Ensure Access & Identity in Google Cloud
 - [GSP344](/challenge-labs/GSP344.md) Serverless Firebase Development
 - [GSP345](/challenge-labs/GSP345.md) Automating Infrastructure on Google Cloud with Terraform
-- [GSP787](/challenge-labs/GSP787.md) Insights from Data with BigQuery (**soon...**)
+- [GSP787](/challenge-labs/GSP787.md) Insights from Data with BigQuery (**soon**)
 
 **Notes**:
 
