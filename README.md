@@ -30,5 +30,6 @@
 - [GSP345](/challenge-labs/GSP345.md) Automating Infrastructure on Google Cloud with Terraform
 - [GSP787](/challenge-labs/GSP787.md) Insights from Data with BigQuery (soon...)
 
-Notes: <br>
+**Notes**:
+
 If the lab is labeled **deprecated**, it means the lab has been updated and this solution will not work, but you can still use it to study.
